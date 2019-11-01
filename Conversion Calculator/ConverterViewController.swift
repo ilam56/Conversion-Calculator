@@ -37,8 +37,8 @@ class ConverterViewController: UIViewController {
         converters.append(converter3)
         converters.append(converter4)
         
-        self.outputDisplay.text = converters[convIndex].outputUnit
-        self.inputDisplay.text = converters[convIndex].inputUnit
+        outputDisplay.text = converters[convIndex].outputUnit
+        inputDisplay.text = converters[convIndex].inputUnit
         // Do any additional setup after loading the view.
     }
     
