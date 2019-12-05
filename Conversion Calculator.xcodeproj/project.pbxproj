@@ -16,6 +16,7 @@
 		F83DC254236C940A008BAF9A /* Conversion_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83DC253236C940A008BAF9A /* Conversion_CalculatorUITests.swift */; };
 		F83DC25F236CA074008BAF9A /* ConverterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83DC25E236CA074008BAF9A /* ConverterViewController.swift */; };
 		F83DC261236CA560008BAF9A /* Converter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83DC260236CA560008BAF9A /* Converter.swift */; };
+		F843173B23998EDF003AE81F /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F843173A23998EDF003AE81F /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		F83DC255236C940A008BAF9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F83DC25E236CA074008BAF9A /* ConverterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterViewController.swift; sourceTree = "<group>"; };
 		F83DC260236CA560008BAF9A /* Converter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Converter.swift; sourceTree = "<group>"; };
+		F843173A23998EDF003AE81F /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				F83DC242236C9408008BAF9A /* Conversion_Calculator.xcdatamodeld */,
 				F83DC25E236CA074008BAF9A /* ConverterViewController.swift */,
 				F83DC260236CA560008BAF9A /* Converter.swift */,
+				F843173A23998EDF003AE81F /* Test.swift */,
 			);
 			path = "Conversion Calculator";
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				F83DC23C236C9408008BAF9A /* SceneDelegate.swift in Sources */,
 				F83DC25F236CA074008BAF9A /* ConverterViewController.swift in Sources */,
 				F83DC261236CA560008BAF9A /* Converter.swift in Sources */,
+				F843173B23998EDF003AE81F /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
